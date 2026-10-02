@@ -33,9 +33,9 @@ Percentages are calculated within each group (36 women, 14 men), except where st
 - **Digital divide:** Only 2.8% of women have internet access, and only 16.7% have heard of social media.
 - **Women trail men on every channel:** Women's raw counts for radio (18 vs 13) look similar to men's only because women are 36 of the 50 respondents. As a share of each group, women are behind men on every channel measured, for example radio at 50.0% vs 92.9%.
 
-<!-- Chart preview: upload the chart to an images folder, then remove the arrows around the next line
+
 ![Media access by gender](images/media-access-by-gender.png)
--->
+
 
 ## Recommendations
 

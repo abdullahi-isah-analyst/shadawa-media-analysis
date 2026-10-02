@@ -1,7 +1,9 @@
 # Shadawa Pastoralist Women Media Empowerment Analysis
 
 **Author:** Abdullahi Isah
+
 **Date:** September 2026
+
 **Tools:** Python (Pandas, Matplotlib)
 
 ---
